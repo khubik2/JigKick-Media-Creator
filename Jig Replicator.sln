@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jig Replicator", "Jig Replicator\Jig Replicator.csproj", "{0A6FC6F8-EA98-45BD-AEE2-47620B70DC58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{54F1FB14-7EDE-4BFF-8DF0-E5529C300D8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A6FC6F8-EA98-45BD-AEE2-47620B70DC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6FC6F8-EA98-45BD-AEE2-47620B70DC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6FC6F8-EA98-45BD-AEE2-47620B70DC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6FC6F8-EA98-45BD-AEE2-47620B70DC58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5729239A-8A4B-43E9-9C3C-64F224817C09}
+	EndGlobalSection
+EndGlobal
